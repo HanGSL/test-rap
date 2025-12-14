@@ -30,3 +30,5 @@ rl.question('Enter number 1 : ', (num1_str) => {
     });
   });
 });
+
+"เเก้ไขไฟล์"
